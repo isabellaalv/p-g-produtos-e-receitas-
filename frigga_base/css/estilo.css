@@ -598,7 +598,6 @@ margin-top: 25px;
 
 .container_mobile, .categorias_mobile, .busca_mobile, .pesquisa_mobile, .categ_mobile{
 display: flex ;
-
 }
 
 .container_mobile{
@@ -1601,10 +1600,11 @@ width: 550px;
     width: 350px;
     margin: auto;
     
+    
   }
-  .card-receitas{
-    padding-top: 37px;
-    padding-bottom: 37px;
+  .card_receitas{
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
   
   .categ_mobile img{
